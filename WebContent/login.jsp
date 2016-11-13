@@ -226,7 +226,7 @@
     <h2>移动端手动实现弹出式Demo</h2>
     <br>
     <p>
-        <labe for="username3">用户名：</labe>
+        <label for="username3">用户名：</label>
         <input id="username3" class="inp" type="text" value="极验验证">
     </p>
     <br>
