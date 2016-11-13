@@ -91,7 +91,7 @@
     <h2>弹出式Demo，使用ajax形式提交二次验证码所需的验证结果值</h2>
     <br>
     <p>
-        <labe>用户名：</labe>
+        <label>用户名：</label>
         <input id="username1" class="inp" type="text" value="极验验证">
     </p>
     <br>
